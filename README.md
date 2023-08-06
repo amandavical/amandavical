@@ -1,13 +1,15 @@
+<h1 align="center">Hi 👋, I'm Amanda</h1>
+<h3 align="center">A passionate frontend developer from Brazil</h3>
 
-### Hi there, I'm Amanda Vieira 👋
+- 🔭 I’m currently working on **Landis Academy**
 
-🔭 I’m currently working on [Natural Language Processing 💬](https://github.com/topics/natural-language-processing) <br />
-🌱 I’m currently experimenting with [Static Site Generators 🛠](https://github.com/collections/static-site-generators) <br />
-👯 I’m looking to collaborate on more open source projects <br />
-💬 Ask me about literally anything, I would be glad to help (if I can ✨) <br />
-📫 How to reach me: Shoot me an email at <a href="mailto:hallo@florian-bussmann.de"><img src="https://img.shields.io/static/v1?label=%F0%9F%92%8C&message=hallo@florian-bussmann.de&labelColor=lightgrey&height=30&color=0072c6" alt="hallo@florian-bussmann.de" valign="middle"></a> <br />
-😄 Pronouns: he/him <br />
-⚡ Fun fact: I ❤ [Schlager](https://www.youtube.com/watch?v=pJzsFH5-mac)
+- 🌱 I’m currently learning **Python, JavaScript, HTML, CSS**
+
+- 👯 I’m looking to collaborate on [Destiny Corporation](https://github.com/Destiny-Corporation)
+
+- 📫 How to reach me **amandaestudos25@gmail.com**
+
+- 📄 Know about my experiences [http://lattes.cnpq.br/7162844542440669](http://lattes.cnpq.br/7162844542440669)
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
