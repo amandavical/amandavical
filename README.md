@@ -15,7 +15,7 @@
 <code><img height="20" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="20" alt="css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="20" alt="swift" src="<code><img height="20" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>"></code>
+<code><img height="20" alt="swift" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"></code> 
 <code><img height="20" alt="kotlin" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"></code>    
 <code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>  
 <code><img height="20" alt="node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>  
