@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [**Curriculum Lattes**](http://lattes.cnpq.br/7162844542440669)
   
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript"></code>
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="20" alt="swift" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"></code>
