@@ -16,8 +16,8 @@
 
 # 📊 GitHub Stats:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=amandavical&theme=dark&hide_border=false&include_all_commits=true&count_private=true)]
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)<br> 
-[![GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amandavical&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+[![GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amandavical&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
