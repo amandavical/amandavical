@@ -5,10 +5,8 @@
 </div>
 
  ## Hi, I'm Amanda!
-<p>
-⇒ 🌱 I am currently studying Python, JavaScript, HTML/CSS to my developing projects
-⇒ 🌼 Student at IFCE, Informatics
-</p>
+<p>🌱 I am currently studying Python, JavaScript, HTML/CSS to my developing projects</p>
+<p>🌼 Student at IFCE, Informatics</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
