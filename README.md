@@ -1,8 +1,7 @@
 
-<div>
- <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="140em" 
+ <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="180em" 
 src="https://github-readme-streak-stats.herokuapp.com/?user=amandavical&theme=dracula&hide_border=true"></a>&nbsp;
-</div>
+
 
 
  ## Hi, I'm Amanda!
