@@ -1,8 +1,8 @@
 ## Hi, I'm Amanda Vieira! 🧚‍♀️:
 
 [![GitHub amandavical](https://img.shields.io/github/followers/amandasvical?style=social)](https://github.com/amandavical)
-[![E-mail](https://img.shields.io/badge/E-mail-rt.amandaestudos25@gmail.com-blue)](mailto:rt.amandaestudos25@gmail.com)
-<a href="mailto:amandaestudos25@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="amandaestudos25@gmail.com"> </a>
+[![E-mail](https://img.shields.io/badge/E-mail-rt.viviane.souza@gmail.com-blue)](mailto:rt.viviane.souza@gmail.com)
+
 
 - 🌱 I’m currently learning *Python, JavaScript, HTML/CSS* to developing projects
 - 🚀 Student at Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)
