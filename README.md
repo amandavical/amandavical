@@ -1,25 +1,33 @@
-## Hi, I'm Amanda Vieira! 🧚‍♀️:
+ <div>
+  <a href="https://github.com/amandavical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandavical&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandavical&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-[![GitHub amandavical](https://img.shields.io/github/followers/amandasvical?style=social)](https://github.com/amandavical)
-[![E-mail](https://img.shields.io/badge/E-mail-rt.viviane.souza@gmail.com-blue)](mailto:rt.viviane.souza@gmail.com)
+ ## Hi, I'm Amanda!
+<p>
+⇒ 🌱 I am currently studying Python, JavaScript, HTML/CSS to my developing projects
+⇒ 🌼 Student at IFCE, Informatics
+</p>
 
-
-- 🌱 I’m currently learning *Python, JavaScript, HTML/CSS* to developing projects
-- 🚀 Student at Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)
-- 📄 Know about my me [**Curriculum Lattes**](http://lattes.cnpq.br/7162844542440669)
-
-## Analytics & Highlights
-
- <h1 align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img height="140em" src="https://github-readme-stats-bpires.vercel.app/api?username=amandavical&hide_title=true&line_height=30&hide_rank=false&theme=dracula&show_icons=true&include_all_commits=true&hide_border=true"></a>&nbsp;
-<a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="140em" 
-src="https://github-readme-streak-stats.herokuapp.com/?user=amandavical&theme=dracula&hide_border=true"></a>&nbsp;
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
  
- <a href="https://github.com/anuraghazra/github-readme-stats"><img height="170em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=amandavical&layout=compact&card_width=400&hide_title=true&theme=dracula&t&langs_count=9&hide_border=true"></a>&nbsp;
+  </br>
+   </br>
  
- <a href="https://metrics.lecoq.io/insights/amandavical" target="_blank" rel="noreferrer"><img height="27.5em" src="https://user-images.githubusercontent.com/86871991/178090011-2be9a8c0-ad68-4e7d-8568-6256d8178a28.png"></img></a>
+<div> 
+  <a href = "mailto:amandaestudos25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
  
-</details>
+ </br>
+  </br>
 
-
-
-
+<div>
+  <img alt="egg" src="https://64.media.tumblr.com/4a8bba29fe9fc5648a4209fca9e236bb/8b37e15fc58d825b-b4/s540x810/d564ddc48dd336f7dfa0f525fa271915c7877e37.gif">
+ </div>
