@@ -1,5 +1,5 @@
 <h1 align="center">
-   <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=#FFFFFF4&center=true&width=410&height=50&lines=Hi,+I'm+a+developer+from+Brazil">
+   <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=#FFFFFF&center=true&width=410&height=50&lines=Hi,+I'm+a+developer+from+Brazil">
 </h1>
 
 <h3 align="center">A passionate developer from Brazil</h3>
