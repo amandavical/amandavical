@@ -6,7 +6,7 @@
 
 
 
- ## Hi, I'm Amanda!
+ ## Hi! I'm Amanda
 <p>🌱 I am currently studying Python, JavaScript, HTML/CSS to my developing projects</p>
 <p>🌼 Student at Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), Informatics</p>
 <p>☘️ Working in Landis Academy </p>
