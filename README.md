@@ -1,7 +1,9 @@
 
- <h1 align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img height="140em" src="https://github-readme-stats-bpires.vercel.app/api?username=amandavical&hide_title=true&line_height=30&hide_rank=false&theme=dracula&show_icons=true&include_all_commits=true&hide_border=true"></a>&nbsp;
-<a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="140em" 
+<div>
+ <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="140em" 
 src="https://github-readme-streak-stats.herokuapp.com/?user=amandavical&theme=dracula&hide_border=true"></a>&nbsp;
+</div>
+
 
  ## Hi, I'm Amanda!
 <p>🌱 I am currently studying Python, JavaScript, HTML/CSS to my developing projects</p>
