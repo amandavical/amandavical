@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Amanda</h1>
+<h1 align="center">
+   <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=FF66C4&center=true&width=410&height=45&lines=Hi+I'm+a+dev">
+</h1>
+
 <h3 align="center">A passionate developer from Brazil</h3>
 
 - 🔭 I’m currently working on **Landis Academy**
