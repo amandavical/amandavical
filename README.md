@@ -1,6 +1,8 @@
-
- <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="180em" 
-src="https://github-readme-streak-stats.herokuapp.com/?user=amandavical&theme=dracula&hide_border=true"></a>&nbsp;
+ <div>
+  <a href="https://github.com/preciousakura">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=preciousakura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preciousakura&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 
