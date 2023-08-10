@@ -2,7 +2,6 @@
   <img src="https://github.com/amandavical/amandavical/raw/main/assets/header-githubof.gif" alt="Oi, eu sou a Amanda">
 </p>
 
- ## Hi! I'm Amanda
 <p>🌱 I am currently studying Python, JavaScript, HTML/CSS to my developing projects</p>
 <p>🌼 Student at Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), Informatics</p>
 <p>☘️ Working in Landis Academy </p>
@@ -21,14 +20,15 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </div>
-<div>
-  <a href="https://github.com/amandavical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandavical&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandavical&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 </details>
 
+<details>
+<summary><samp><b>More Info</b></samp></summary>
+ <a href="https://github.com/amandavical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandavical&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandavical&layout=compact&langs_count=7&theme=dracula"/>
 
+</details>
 
   </br>
    </br>
