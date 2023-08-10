@@ -7,6 +7,9 @@
 <p>🌼 Student at Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), Informatics</p>
 <p>☘️ Working in Landis Academy </p>
 
+<details>
+  <summary><b>🛠️ Algumas linguagens e ferramentas que eu uso:</b></summary>
+  <br/>
 <div style="display: inline_block"><br>
   <a align="center" href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"> </a> &nbsp;
 <a align="center" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"> </a> &nbsp;
@@ -23,6 +26,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandavical&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandavical&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+</details>
+
+
 
   </br>
    </br>
