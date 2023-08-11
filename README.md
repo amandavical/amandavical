@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/amandavical/amandavical/raw/main/assets/header-githubof.gif" alt="Oi, eu sou a Amanda" width="500" height="300">
+  <img src="https://github.com/amandavical/amandavical/raw/main/assets/header-githubof.gif" alt="Oi, eu sou a Amanda" width="800" height="300">
 </p>
 
 
