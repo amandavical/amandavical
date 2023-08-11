@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/amandavical/amandavical/raw/main/assets/header-githubof.gif" alt="Oi, eu sou a Amanda" width="800">
+  <img src="https://github.com/amandavical/amandavical/raw/main/assets/header-githubof.gif" alt="Oi, eu sou a Amanda" width="500" height="300">
 </p>
-
 
 
 <p>🌱 I am currently studying Python, JavaScript, HTML/CSS to my developing projects</p>
