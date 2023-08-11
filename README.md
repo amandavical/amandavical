@@ -2,10 +2,12 @@
   <img src="https://github.com/amandavical/amandavical/raw/main/assets/header-githubof.gif" alt="Oi, eu sou a Amanda" width="600" height="300">
 </p>
 
+---
+#### | (...)
 
-<p>🌱 I am currently studying Python, JavaScript, HTML/CSS to my developing projects</p>
-<p>🌼 Student at Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), Informatics</p>
-<p>☘️ Working in Landis Academy </p>
+<p> ⇒ 👨‍💻: Student at Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), Informatic
+<p> ⇒ 💭: I am currently using Python, JavaScript, HTML/CSS to my developing projects
+
 
 <details>
   <summary><b>🛠️ Algumas linguagens e ferramentas que eu uso:</b></summary>
@@ -24,7 +26,7 @@
 </details>
 
 <details>
-<summary><samp><b>More Info</b></samp></summary>
+<summary><b>🎢 Github Status</b></summary>
  <a href="https://github.com/amandavical">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandavical&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandavical&layout=compact&langs_count=7&theme=dracula"/>
