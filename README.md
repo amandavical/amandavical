@@ -41,8 +41,6 @@
 
 ---
 
-</br>
-
 <div>
   <h3 align="left">🔗 Entre em contato comigo:</h3>
   <a href="mailto:amandaestudos25@gmail.com">
