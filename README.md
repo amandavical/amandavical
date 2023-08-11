@@ -3,14 +3,14 @@
 </p>
 
 ---
-#### | (...)
+#### | How are you? I am 17 years old and I am a technology enthusiast passionate about software, web and mobile development. Always looking to learn and explore new frontiers in the world of technology. 
 
-<p> ⇒ 👨‍💻: Student at Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), Informatic
-<p> ⇒ 💭: I am currently using Python, JavaScript, HTML/CSS to my developing projects
-
-
+<p> ⇒ 💭: Student at Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), Informatic
+<p> ⇒ 👨‍💻: I am currently using Python, JavaScript, HTML/CSS to my developing projects
+<p> ⇒ 🤍 My hobbies are reading books, listening to music and studying what I like
+---
 <details>
-  <summary><b>🛠️ Algumas linguagens e ferramentas que eu uso:</b></summary>
+  <summary><b>🛠️ Some languages and tools I use:</b></summary>
   <br/>
 <div style="display: inline_block"><br>
   <a align="center" href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"> </a> &nbsp;
@@ -24,15 +24,16 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </div>
 </details>
-
+---
 <details>
-<summary><b>🎢 Github Status</b></summary>
+<summary><b>🎢 Github Status:</b></summary>
+   <br/>
  <a href="https://github.com/amandavical">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandavical&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandavical&layout=compact&langs_count=7&theme=dracula"/>
 
 </details>
-
+---
   </br>
    </br>
 
@@ -41,7 +42,7 @@
   <a href = "mailto:amandaestudos25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
- 
+---
  </br>
   </br>
 
