@@ -1,13 +1,7 @@
-
 <p align="center">
-  <img src="https://github.com/amandavical/amandavical/raw/main/assets/header-githubof.gif" alt="Oi, eu sou a Amanda">
+  <img src="https://github.com/amandavical/amandavical/raw/main/assets/header-githubof.gif" alt="Oi, eu sou a Amanda" width="500">
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=DD4767&background=2222BB00&center=true&vCenter=true&multiline=true&repeat=true&width=300&lines=TEXTO_AQUI" alt="Typing SVG" />
-  </a>
-</p>
 
 
 <p>🌱 I am currently studying Python, JavaScript, HTML/CSS to my developing projects</p>
