@@ -1,19 +1,19 @@
 <p align="left">
-  <img src="https://github.com/amandavical/amandavical/raw/main/assets/header-githubof.gif" alt="Oi, eu sou a Amanda" width="600" height="300">
+  <img src="https://github.com/amandavical/amandavical/raw/main/assets/header-githubof.gif" alt="Hi, I'm Amanda" width="600" height="300">
 </p>
 
 ---
 
-#### | Como vai? Tenho 17 anos e sou entusiasta da tecnologia, apaixonada por desenvolvimento de software, web e mobile. Sempre buscando aprender e explorar novas fronteiras no mundo da tecnologia.
+#### | How's it going? I'm 17 years old and a technology enthusiast, passionate about software development, web, and mobile. Always seeking to learn and explore new frontiers in the world of technology.
 
-- 💭 Aluna do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), Informática.
-- 👨‍💻 Atualmente, estou usando Python, JavaScript, HTML/CSS nos meus projetos de desenvolvimento.
-- 🤍 Meus hobbies incluem ler livros, ouvir música e estudar o que me interessa.
+- 💭 Student at the Federal Institute of Education, Science, and Technology of Ceará (IFCE), Computer Science.
+- 👨‍💻 Currently using Python, JavaScript, HTML/CSS in my development projects.
+- 🤍 My hobbies include reading books, listening to music, and studying what interests me.
 
 ---
 
 <details>
-  <summary><b>🛠️ Algumas linguagens e ferramentas que uso:</b></summary>
+  <summary><b>🛠️ Some languages and tools I use:</b></summary>
   <br/>
   <div style="display: inline_block"><br>
     <a align="center" href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"> </a> &nbsp;
@@ -31,7 +31,7 @@
 ---
 
 <details>
-  <summary><b>🎢 Status do GitHub:</b></summary>
+  <summary><b>🎢 GitHub Stats:</b></summary>
   <br/>
   <a href="https://github.com/amandavical">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandavical&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=ffffff"/>
@@ -42,11 +42,11 @@
 ---
 
 <div>
-  <h3 align="left">🔗 Entre em contato comigo:</h3>
+  <h3 align="left">🔗 Get in touch with me:</h3>
   <a href="mailto:amandaestudos25@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <!-- Adicione outras formas de contato aqui -->
+  <!-- Add other contact methods here -->
 </div>
 
 ---
@@ -54,7 +54,7 @@
 </br>
 </br>
 
-#### _Leia isso em [outras línguas](translations/Translations.md)._
-<kbd>[<img title="Português" alt="Português" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](translations/README.pt_br.md)</kbd>
-<kbd>[<img title="Española" alt="Española" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](translations/README.es.md)</kbd>
-<kbd>[<img title="Française" alt="Française" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](translations/README.fr.md)</kbd>
+#### _Read this in [other languages](translations/Translations.md)._
+<kbd>[<img title="Portuguese" alt="Portuguese" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](translations/README.pt_br.md)</kbd>
+<kbd>[<img title="Spanish" alt="Spanish" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](translations/README.es.md)</kbd>
+<kbd>[<img title="French" alt="French" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](translations/README.fr.md)</kbd>
