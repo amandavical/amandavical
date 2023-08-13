@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/amandavical/amandavical/raw/main/assets/header-githubof.gif" alt="Hi, I'm Amanda" width="600" height="300">
+  <img src="https://github.com/amandavical/amandavical/raw/main/assets/header-githubof.gif" alt="Hi, I'm Amanda" width="800" height="200">
 </p>
 
 ---
