@@ -4,11 +4,12 @@
 
 ---
 
-#### | Como vai? Tenho 17 anos e sou entusiasta da tecnologia, apaixonada por desenvolvimento de software, web e mobile. Sempre buscando aprender e explorar novas fronteiras no mundo da tecnologia.
+#### | Como vai? Tenho 17 anos e sou entusiasta da tecnologia, gosto de desenvolvimento de software, web e mobile. Estou sempre buscando aprender e explorar novas fronteiras no mundo da tecnologia.
 
-- 💭 Aluna do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), Informática.
-- 👨‍💻 Atualmente, estou usando Python, JavaScript, HTML/CSS nos meus projetos de desenvolvimento.
-- 🤍 Meus hobbies incluem ler livros, ouvir música e estudar o que me interessa.
+- 💭 Atualmente sou bolsista de programação na Curiosity Academy.
+- 🎓 Formei-me em Técnico em Informática no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) Campus Fortaleza.
+- 👨‍💻 Utilizo Python, JavaScript, HTML/CSS em meus projetos de desenvolvimento.
+- 🤍 Meus hobbies incluem a leitura de livros, ouvir música e estudar o que me interessa.
 
 ---
 
