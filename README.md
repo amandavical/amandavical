@@ -4,9 +4,10 @@
 
 ---
 
-#### | How's it going? I'm 17 years old and a technology enthusiast, passionate about software development, web, and mobile. Always seeking to learn and explore new frontiers in the world of technology.
+#### | How's it going? I'm 17 years old and a technology enthusiast, passionate about software development, web, and mobile. Always eager to learn and explore new frontiers in the world of technology.
 
-- 💭 Student at the Federal Institute of Education, Science, and Technology of Ceará (IFCE), Computer Science.
+- 💭 Currently a programming scholarship recipient at Curiosity Academy.
+- 🎓 Graduated in  Informatics from the Federal Institute of Education, Science, and Technology of Ceará (IFCE).
 - 👨‍💻 Currently using Python, JavaScript, HTML/CSS in my development projects.
 - 🤍 My hobbies include reading books, listening to music, and studying what interests me.
 
