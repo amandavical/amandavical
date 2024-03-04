@@ -4,7 +4,7 @@
 
 ---
 ### About Me
-| How's it going? I'm 17 years old and I've been passionate about programming since 2021. I focus on software, web, and mobile development, always eager to learn and explore new technological frontiers.
+| How's it going? I'm 17 years old and I've been study about programming since 2021. I focus on software, web, and mobile development, always eager to learn and explore new technological frontiers.
 
 - 💭 I'm a programming scholarship recipient at Curiosity Academy at IFCE.
 - 🎓 Graduated in Informatics from IFCE Fortaleza (2021-2023).
