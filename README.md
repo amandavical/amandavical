@@ -7,8 +7,8 @@
 | How's it going? I'm 17 years old and I've been passionate about programming since 2021. I focus on software, web, and mobile development, always eager to learn and explore new technological frontiers.
 
 - 💭 I'm a programming scholarship recipient at Curiosity Academy at IFCE.
-- 🎓 Graduated in Informatics from IFCE (2021-2023).
-- 📚 Studying Computer Science at IFCE.
+- 🎓 Graduated in Informatics from IFCE Fortaleza (2021-2023).
+- 📚 Studying Computer Science at IFCE Maracanaú.
 - 👨‍💻 I mainly work with Python, JavaScript and HTML/CSS in my development projects.
 - 🤍 Hobbies include reading, listening to music, and studying topics that interest me.
   
