@@ -59,12 +59,12 @@
 
 ---
 
-<details>
-  <summary><b>🎢 GitHub Stats</b></summary>
+<details style="background-color: white;">
+  <summary style="color: black; font-weight: bold;">🎢 GitHub Stats</summary>
   <br/>
   <a href="https://github.com/amandavical">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandavical&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=ffffff"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandavical&layout=compact&langs_count=7&theme=dracula&title_color=ffffff"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandavical&show_icons=true&include_all_commits=true&count_private=true&bg_color=white&text_color=000"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandavical&layout=compact&langs_count=7&bg_color=white&text_color=000"/>
   </a>
 </details>
 
