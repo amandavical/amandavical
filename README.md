@@ -4,7 +4,7 @@
 
 ---
 ### About Me
-#### | 👋 Hello, World! I'm an 18-year-old programmer with a passion for tech and innovation. 
+#### | Hello, World! I'm an 18-year-old programmer with a passion for tech and innovation. 
 Since 2021, I've been exploring software, web, and mobile development, always eager to learn and push my limits.
 
 - 💼 Programmer at Polo de Inovações (Landis+Gyr). 
