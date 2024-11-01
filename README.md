@@ -4,17 +4,18 @@
 
 ---
 ### About Me
-#### | Hello, World! I'm 18 and I'm a programmer with passion for tech and innovation. 
-Since 2021, I've been exploring software, web, and mobile development, always eager to learn and push my limits.
+---
+### 🌍 Hello, World!
 
-- 💼 Programmer at Polo de Inovações IFCE (Landis+Gyr). 
-- 🎓 Top Graduate in Informatics: IFCE Fortaleza (2021-2023).
-- 📚  Current Studies: Computer Science at IFCE Maracanaú.
-- 👨‍💻  Skills: Proficient in Python, JavaScript, and HTML/CSS. 
-- 🤍 Interests: Reading, music, and continuous learning.
+I'm a programmer with a strong passion for technology and innovation. Since 2021, I've been engaged in software, web, and mobile development, always eager to learn and challenge myself.
 
-Always ready for new challenges and collaborations. Let's innovate together!
-  
+- **💼 Current Position**: Programmer at Polo de Inovações IFCE (Landis+Gyr)
+- **🎓 Education**: Top Graduate in Informatics at IFCE Fortaleza (2021-2023)
+- **📚 Currently Studying**: Computer Science at IFCE Maracanaú
+- **👨‍💻 Skills**: Proficient in Python, JavaScript, and HTML/CSS
+
+I'm excited about new challenges and collaborations. Let's innovate together!
+
 ---
 
 <details>
