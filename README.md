@@ -3,18 +3,16 @@
 </p>
 
 ---
-### About Me
----
-### 🌍 Hello, World!
+### ✦ | About me 
 
-I'm a programmer with a strong passion for technology and innovation. Since 2021, I've been engaged in software, web, and mobile development, always eager to learn and challenge myself.
+*I'm a programmer with a passion for technology and innovation. Since 2021, I've been engaged in software, web, and mobile development, always eager to learn and challenge myself.*
 
-- **💼 Current Position**: Programmer at Polo de Inovações IFCE (Landis+Gyr)
-- **🎓 Education**: Top Graduate in Informatics at IFCE Fortaleza (2021-2023)
-- **📚 Currently Studying**: Computer Science at IFCE Maracanaú
-- **👨‍💻 Skills**: Proficient in Python, JavaScript, and HTML/CSS
+- ***💼 Current Position**: Programmer at Polo de Inovações IFCE (Landis+Gyr)*
+- ***🎓 Education**: Top Graduate in Informatics at IFCE Fortaleza (2021-2023)*
+- ***📚 Currently Studying**: Computer Science at IFCE Maracanaú*
+- ***👨‍💻 Skills**: Proficient in Python, Swift, JavaScript, and HTML/CSS*
 
-I'm excited about new challenges and collaborations. Let's innovate together!
+*I'm excited about new challenges and collaborations. Let's innovate together!*
 
 ---
 
@@ -64,7 +62,7 @@ I'm excited about new challenges and collaborations. Let's innovate together!
 ---
 
 <details style="background-color: white;">
-  <summary style="color: black; font-weight: bold;">🎢 GitHub Stats</summary>
+  <summary style="color: black; font-weight: bold;"><b>🎢 GitHub Stats</b></summary>
   <br/>
   <a href="https://github.com/amandavical">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandavical&show_icons=true&include_all_commits=true&count_private=true&bg_color=white&text_color=000"/>
@@ -75,7 +73,7 @@ I'm excited about new challenges and collaborations. Let's innovate together!
 ---
 
 <div>
-  <h3 align="left">🔗 Get in touch with me:</h3>
+  <h3 align="left">🔗 Get in touch with me:</h3
   <a href="mailto:amandaestudos25@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
