@@ -2,92 +2,104 @@
   <img src="https://github.com/amandavical/amandavical/raw/main/assets/header-githubof.gif" alt="Hi, I'm Amanda" width="800" height="260">
 </p>
 
----
-### ✦ | About me 
+# 💫 About Me
 
-*I'm a programmer with a passion for technology and innovation. Since 2021, I've been engaged in software, web, and mobile development, always eager to learn and challenge myself.*
+I am a 19-year-old **Full-stack Developer** passionate about crafting elegant, scalable, and high-performance software. Currently, I am a Developer at the **Polo de Inovações (IFCE)**, where I contribute to innovative solutions in partnership with **Volt+**. 
 
-- ***💼 Current Position**: Programmer at Polo de Inovações IFCE (Landis+Gyr)*
-- ***🎓 Education**: Top Graduate in Informatics at IFCE Fortaleza (2021-2023)*
-- ***📚 Currently Studying**: Computer Science at IFCE Maracanaú*
-- ***👨‍💻 Skills**: Proficient in Python, Swift, JavaScript, and HTML/CSS*
+Beyond my professional work, I am pursuing my Bachelor's in **Computer Science** at IFCE, constantly expanding my horizons across the entire development stack.
 
-*I'm excited about new challenges and collaborations. Let's innovate together!*
-
----
-
-<details>
-  <summary><b>🛠️ Languages and Tools</b></summary>
-  <br/>
-  <div style="display: inline_block">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"> 
-    </a> &nbsp;
-     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"> 
-    </a> &nbsp;
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"> 
-    </a> &nbsp;
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"> 
-    </a> &nbsp;
-      <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
-    </a> &nbsp;
-    <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-    </a> &nbsp;
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-    </a> &nbsp;
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"> 
-    </a> &nbsp;
-     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"> 
-    </a> &nbsp;
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-    </a> &nbsp;
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/> 
-    </a> &nbsp;
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> 
-    </a>
-  </div>
-</details>
+- 💼 **Current Role**: Software Developer at Polo de Inovações (IFCE) & Volt+
+- 🎓 **Education**: B.S. in Computer Science at IFCE
+- 🔭 **Currently Exploring**: Advanced Web/Mobile architectures and Cloud Integration
+- 📍 **Location**: Fortaleza, Brazil
+- 🚀 **Focus**: Full-stack Development (Mobile, Web, & Backend)
 
 ---
 
-<details style="background-color: white;">
-  <summary style="color: black; font-weight: bold;"><b>🎢 GitHub Stats</b></summary>
-  <br/>
-  <a href="https://github.com/amandavical">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandavical&show_icons=true&include_all_commits=true&count_private=true&bg_color=white&text_color=000"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandavical&layout=compact&langs_count=7&bg_color=white&text_color=000"/>
+### 🛠 Tech Stack
+
+<div align="left">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h4>📱 Mobile Development</h4>
+        <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      </td>
+      <td valign="top" width="50%">
+        <h4>🌐 Web Frontend</h4>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="50%">
+        <h4>⚙️ Backend & Logic</h4>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+      </td>
+      <td valign="top" width="50%">
+        <h4>🔧 Tools & Platforms</h4>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 💻 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/amandavical/carekobooks-frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amandavical&repo=carekobooks-frontend&theme=tokyonight&show_icons=true" alt="CarekoBooks Frontend" width="400" />
   </a>
-</details>
+  <a href="https://github.com/amandavical/Maremansa-Kids-Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amandavical&repo=Maremansa-Kids-Website&theme=tokyonight&show_icons=true" alt="Maremansa Kids Website" width="400" />
+  </a>
+</p>
 
 ---
 
-<div>
-  <h3 align="left">🔗 Get in touch with me:</h3
+### 📊 GitHub Metrics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandavical&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandavical&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandavical&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+<div align="left">
   <a href="mailto:amandaestudos25@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/amanda-vieira-2989752a6/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
 ---
 
-</br>
-</br>
-
-#### _Read this in [other languages](translations/Translations.md)._
-<kbd>[<img title="Portuguese" alt="Portuguese" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/br.svg" width="22">](translations/README.pt_br.md)</kbd>
-<kbd>[<img title="Spanish" alt="Spanish" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/es.svg" width="22">](translations/README.es.md)</kbd>
-<kbd>[<img title="French" alt="French" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/fr.svg" width="22">](translations/README.fr.md)
+<p align="left">
+  <sub>Read this in other languages: 
+  <a href="translations/README.pt_br.md">Português</a> • 
+  <a href="translations/README.es.md">Español</a> • 
+  <a href="translations/README.fr.md">Français</a>
+  </sub>
+</p>
