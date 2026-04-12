@@ -10,7 +10,7 @@ En plus de mon activité professionnelle, je poursuis ma licence en **Informatiq
 
 - 💼 **Poste Actuel**: Développeuse Logiciel chez Polo de Inovações (IFCE) & Volt+
 - 🎓 **Éducation**: Licence en Informatique à l'IFCE
-- 🔭 **Actuellement en train d'explorer**: Architectures Web/Mobile avancées et Intégration Cloud
+- 🔭 **Actuellement en train d'explorer**: Concepts avancés en développement Web et Mobile
 - 📍 **Localisation**: Fortaleza, Brésil
 - 🚀 **Focus**: Développement Full-stack (Mobile, Web & Backend)
 
@@ -54,19 +54,6 @@ En plus de mon activité professionnelle, je poursuis ma licence en **Informatiq
     </tr>
   </table>
 </div>
-
----
-
-### 💻 Projets en Vedette
-
-<p align="center">
-  <a href="https://github.com/amandavical/carekobooks-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amandavical&repo=carekobooks-frontend&theme=tokyonight&show_icons=true" alt="CarekoBooks Frontend" width="400" />
-  </a>
-  <a href="https://github.com/amandavical/Maremansa-Kids-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amandavical&repo=Maremansa-Kids-Website&theme=tokyonight&show_icons=true" alt="Maremansa Kids Website" width="400" />
-  </a>
-</p>
 
 ---
 

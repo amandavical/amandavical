@@ -2,7 +2,7 @@
   <img src="https://github.com/amandavical/amandavical/raw/main/assets/header-githubof.gif" alt="Hi, I'm Amanda" width="800" height="260">
 </p>
 
-# 💫 About Me
+# ⚡ About Me
 
 I am a 19-year-old **Full-stack Developer** passionate about crafting elegant, scalable, and high-performance software. Currently, I am a Developer at the **Polo de Inovações (IFCE)**, where I contribute to innovative solutions in partnership with **Volt+**. 
 
@@ -10,7 +10,7 @@ Beyond my professional work, I am pursuing my Bachelor's in **Computer Science**
 
 - 💼 **Current Role**: Software Developer at Polo de Inovações (IFCE) & Volt+
 - 🎓 **Education**: B.S. in Computer Science at IFCE
-- 🔭 **Currently Exploring**: Advanced Web/Mobile architectures and Cloud Integration
+- 🔭 **Currently Exploring**: Advanced concepts in Web and Mobile development
 - 📍 **Location**: Fortaleza, Brazil
 - 🚀 **Focus**: Full-stack Development (Mobile, Web, & Backend)
 
@@ -57,25 +57,7 @@ Beyond my professional work, I am pursuing my Bachelor's in **Computer Science**
 
 ---
 
-### 💻 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/amandavical/carekobooks-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amandavical&repo=carekobooks-frontend&theme=tokyonight&show_icons=true" alt="CarekoBooks Frontend" width="400" />
-  </a>
-  <a href="https://github.com/amandavical/Maremansa-Kids-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amandavical&repo=Maremansa-Kids-Website&theme=tokyonight&show_icons=true" alt="Maremansa Kids Website" width="400" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Metrics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandavical&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandavical&layout=compact&langs_count=8&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandavical&theme=tokyonight" />

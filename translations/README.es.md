@@ -10,7 +10,7 @@ Además de mi actividad profesional, estoy cursando el Bachillerato en **Ciencia
 
 - 💼 **Cargo Actual**: Desarrolladora de Software en Polo de Inovações (IFCE) & Volt+
 - 🎓 **Educación**: Bachillerato en Ciencias de la Computación en el IFCE
-- 🔭 **Explorando Actualmente**: Arquitecturas Web/Mobile avanzadas e Integración en la Nube
+- 🔭 **Explorando Actualmente**: Conceptos avanzados en desarrollo Web y Mobile
 - 📍 **Ubicación**: Fortaleza, Brasil
 - 🚀 **Enfoque**: Desarrollo Full-stack (Mobile, Web & Backend)
 
@@ -54,19 +54,6 @@ Además de mi actividad profesional, estoy cursando el Bachillerato en **Ciencia
     </tr>
   </table>
 </div>
-
----
-
-### 💻 Proyectos Destacados
-
-<p align="center">
-  <a href="https://github.com/amandavical/carekobooks-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amandavical&repo=carekobooks-frontend&theme=tokyonight&show_icons=true" alt="CarekoBooks Frontend" width="400" />
-  </a>
-  <a href="https://github.com/amandavical/Maremansa-Kids-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amandavical&repo=Maremansa-Kids-Website&theme=tokyonight&show_icons=true" alt="Maremansa Kids Website" width="400" />
-  </a>
-</p>
 
 ---
 
