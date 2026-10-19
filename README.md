@@ -24,7 +24,7 @@ Gosto de trabalhar na união entre **arquitetura de software** e **experiência 
 
 Minha atuação transita tanto no desenvolvimento de sistemas backend e agentes inteligentes quanto na concepção e implementação de interfaces web e mobile.
 
-* ⚡ **Tech Lead no PDC25 (Polo de Inovação IFCE):** Liderança técnica na criação de plataformas de múltiplos agentes para geração automatizada de código.
+* ⚡ **Tech Lead (Polo de Inovação IFCE):** Liderança técnica e desenvolvimento de arquiteturas de software integradas com inteligência artificial.
 * 🤖 **Engenharia de IA & Full Stack na Volt+ (Grupo NEPEN):** Concepção de agentes autônomos e desenvolvimento de produtos web e mobile.
 * 🎨 **Craft & UX/UI:** Criação de design systems, interfaces acessíveis no Figma e implementação front-end com máxima fidelidade visual.
 * 📱 **Vivência Mobile & Apple Foundation:** Prática em design centrado no usuário, prototipação e metodologias ágeis (Scrum).
