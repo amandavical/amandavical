@@ -57,14 +57,6 @@ Minha atuação transita tanto no desenvolvimento de sistemas backend e agentes 
 
 <br>
 
-## ✦ GitHub Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amandavical&show_icons=true&theme=nord&hide_border=true&title_color=7C3AED&icon_color=4F46E5" alt="Estatísticas do GitHub Amanda" height="165em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandavical&layout=compact&theme=nord&hide_border=true&title_color=7C3AED&langs_count=6" alt="Linguagens Mais Utilizadas" height="165em" />
-</div>
-
-<br>
 
 ---
 
