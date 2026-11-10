@@ -16,21 +16,6 @@
 
 </div>
 
-<br>
-
-## ✦ Perfil & Visão
-
-Gosto de trabalhar na união entre **arquitetura de software** e **experiência do usuário (UX/UI)**, transformando problemas complexos em produtos intuitivos e fáceis de usar.
-
-Minha atuação transita tanto no desenvolvimento de sistemas backend e agentes inteligentes quanto na concepção e implementação de interfaces web e mobile.
-
-* ⚡ **Tech Lead (Polo de Inovação IFCE):** Liderança técnica e desenvolvimento de arquiteturas de software integradas com inteligência artificial.
-* 🤖 **Engenharia de IA & Full Stack na Volt+ (Grupo NEPEN):** Concepção de agentes autônomos e desenvolvimento de produtos web e mobile.
-* 🎨 **Craft & UX/UI:** Criação de design systems, interfaces acessíveis no Figma e implementação front-end com máxima fidelidade visual.
-* 📱 **Vivência Mobile & Apple Foundation:** Prática em design centrado no usuário, prototipação e metodologias ágeis (Scrum).
-
-<br>
-
 ## ✦ Onde Arquitetura encontra Design
 
 <table>
