@@ -40,11 +40,6 @@
 
 <br>
 
-<br>
-
-
----
-
 <div align="center">
 
 ### Vamos conversar e construir algo incrível?
